@@ -1,0 +1,27 @@
+{
+  "name": "weatherapi",
+  "version": "1.0.0",
+  "description": "a weather API that fetches and returns weather data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levanvux/weather-api-roadmapsh.git"
+  },
+  "keywords": [
+    "api",
+    "caching"
+  ],
+  "author": "levanvux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levanvux/weather-api-roadmapsh/issues"
+  },
+  "homepage": "https://github.com/levanvux/weather-api-roadmapsh#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
